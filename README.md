@@ -1,8 +1,5 @@
 # O-RAG — Offline Retrieval-Augmented Generation for Android
 
-<p align="center">
-  <img src="assets/icon.png" alt="O-RAG Icon" width="100"/>
-</p>
 
 <p align="center">
   <b>A fully offline AI assistant for Android — no internet, no cloud, no data leaks.</b><br/>
