@@ -1,0 +1,47 @@
+ACME CORP EMPLOYEE HANDBOOK
+============================
+
+Section 1: Mission & Core Values
+---------------------------------
+Acme Corp is committed to excellence, innovation, and integrity in everything we do.
+Our core values are Integrity, Innovation, and Teamwork.
+Every employee is expected to uphold these values in their daily work and interactions.
+
+Section 2: Work Hours & Remote Policy
+--------------------------------------
+The standard work week is Monday through Friday, 9:00 AM to 5:00 PM local time.
+Employees may work from home up to two days a week with manager approval.
+When working remotely, employees must be available on Slack during standard hours.
+All hybrid and remote arrangements must be agreed upon in writing with your manager.
+
+Section 3: Paid Time Off (PTO) Policy
+--------------------------------------
+Full-time employees accrue 15 days of Paid Time Off per year.
+PTO accrues at a rate of 1.25 days per month starting from the first month of employment.
+Unused PTO up to 5 days can be rolled over to the next calendar year.
+PTO requests must be submitted at least 5 business days in advance via the HR portal.
+Part-time employees accrue PTO on a pro-rated basis.
+
+Section 4: Travel & Expense Policy
+------------------------------------
+All business travel must be pre-approved by your department manager.
+Meals during business travel are capped at $50 per day.
+Employees must submit receipts through the Concur expense portal by the 5th of the following month.
+Economy class is required for all domestic flights under 5 hours.
+Hotel accommodations are reimbursed up to $200 per night in most cities.
+
+Section 5: Code of Conduct
+----------------------------
+All employees are expected to maintain the highest standards of professional conduct.
+Harassment, discrimination, or bullying of any kind will not be tolerated.
+Violations of the code of conduct can result in disciplinary action, up to and including termination.
+Employees must report any witnessed violations to HR within 48 hours.
+Retaliation against employees who report violations is strictly prohibited.
+
+Section 6: Benefits & Compensation
+-------------------------------------
+Acme Corp offers a comprehensive benefits package including health, dental, and vision insurance.
+The company matches 401(k) contributions up to 4% of the employee's annual salary.
+Annual performance reviews are conducted in December each year.
+Merit increases are effective January 1st following the annual review.
+Employees are eligible for a referral bonus of $2,000 for successful hires.
