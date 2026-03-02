@@ -1,6 +1,5 @@
 # O-RAG — Offline Retrieval-Augmented Generation for Android
 
-
 <p align="center">
   <b>A fully offline AI assistant for Android — no internet, no cloud, no data leaks.</b><br/>
   Chat freely or ask questions about your own PDF/TXT documents, entirely on-device.
